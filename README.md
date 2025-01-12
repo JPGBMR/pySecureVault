@@ -30,8 +30,13 @@ A Python-based encryption and decryption application built with `Tkinter` and `c
 
 ## Usage
 1.- Launch the application.
+
 2.- Select the encryption method (AES, ChaCha20, RSA).
+
 3.- Enter and confirm the passphrase for encryption or decryption.
+
 4.- Choose the file to encrypt/decrypt.
+
 5.- View the results and logs.
+
 **License - This project is licensed under the MIT License.**
